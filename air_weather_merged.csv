@@ -1,0 +1,6 @@
+City,PM2.5,Temperature,Humidity,WindSpeed,Weather
+Bengaluru,35.587928407890104,23.81,84,10.73,broken clouds
+Chennai,50.210232423879575,29.92,84,4.12,mist
+Delhi,117.64649425979448,29.05,51,3.09,haze
+Kolkata,64.73271572794899,31.97,55,3.09,haze
+Mumbai,35.47967998734711,32.99,55,3.09,smoke
